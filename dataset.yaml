@@ -1,0 +1,24 @@
+train: dataset/Processed_dataset/images/train
+val: dataset/Processed_dataset/images/val
+
+names:
+  0: A1
+  1: A10
+  2: A11
+  3: A12
+  4: A13
+  5: A14
+  6: A15
+  7: A16
+  8: A17
+  9: A18
+  10: A19
+  11: A2
+  12: A20
+  13: A3
+  14: A4
+  15: A5
+  16: A6
+  17: A7
+  18: A8
+  19: A9
